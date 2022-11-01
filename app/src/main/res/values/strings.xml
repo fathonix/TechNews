@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Tech News</string>
+
+    <string name="sample_title" translatable="false">This is a sample text.</string>
+    <string name="sample_desc" translatable="false">This is a description.</string>
+    <string name="sample_date" translatable="false">July 2, 2022</string>
+    <string name="sample_author" translatable="false">Author</string>
+
+    <string name="confirm_exit">Press again to exit.</string>
+    <string name="fullname" translatable="false">Aldo Adirajasa Fathoni</string>
+    <string name="email" translatable="false">aldo.alfathoni@gmail.com</string>
+    <string name="username" translatable="false">fathonix</string>
+    <string name="ig_name" translatable="false">albontangy_</string>
+    <string name="profile_picture">Profile Picture</string>
+    <string name="profile">Profile</string>
+    <string name="read_more">Read More</string>
+</resources>
